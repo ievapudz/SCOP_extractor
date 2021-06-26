@@ -2,7 +2,7 @@
 
 ## Usage:
 
-1. Download latest [SCOP databse file](https://scop.mrc-lmb.cam.ac.uk/download)
+1. Download latest [SCOP database file](https://scop.mrc-lmb.cam.ac.uk/download)
 2. Pick the functionality of the tool:
     * Generate protein list files from the latest SCOP database file to download protein chains:  
     `java SCOPExtractor [SCOP_database_file] protein [number_of_proteins_to_extract_from_each_class]`
